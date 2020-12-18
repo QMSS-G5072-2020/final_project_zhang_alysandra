@@ -21,7 +21,7 @@ def create_smithsonian_csv(category):
     
     Examples
     --------
-    >>> from smithsonian_api_query import smithsonian_api_query
+    >>> from smithsonian_api_queri import smithsonian_api_queri
     >>> create_smithsonian_csv("postmodernism")
     200
     Querying database...
