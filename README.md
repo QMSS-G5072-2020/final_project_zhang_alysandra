@@ -21,7 +21,7 @@ $ pip install -i https://test.pypi.org/simple/ smithsonian_api_queri
 
 ## Usage and Documentation
 
-The official documentation is hosted on Read the Docs: https://smithsonian_api_queri.readthedocs.io/en/latest/
+The official documentation is hosted on Read the Docs: https://smithsonian_queri.readthedocs.io/en/latest/
 
 ## Contributors
 
