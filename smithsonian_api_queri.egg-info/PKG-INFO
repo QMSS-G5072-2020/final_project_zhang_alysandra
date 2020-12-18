@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: smithsonian-api-queri
+Version: 0.1.0
+Summary: Python package designed to query data from the Smithsonian Open Access API using category filters based on user input.
+Home-page: UNKNOWN
+Author: Alys-217
+Author-email: ajz2123@tc.columbia.edu
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8,<4.0
