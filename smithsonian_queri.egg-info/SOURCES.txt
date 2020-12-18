@@ -1,0 +1,9 @@
+README.md
+setup.py
+smithsonian_queri/__init__.py
+smithsonian_queri/smithsonian_queri.py
+smithsonian_queri.egg-info/PKG-INFO
+smithsonian_queri.egg-info/SOURCES.txt
+smithsonian_queri.egg-info/dependency_links.txt
+smithsonian_queri.egg-info/requires.txt
+smithsonian_queri.egg-info/top_level.txt
