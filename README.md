@@ -12,17 +12,18 @@ $ pip install -i https://test.pypi.org/simple/ smithsonian_api_queri
 
 ## Features
 
-- TODO
+- Query data using the Smithsonian Open Access API using specified search parameters based on user input
+- Generate spreadsheet (.csv) with public domain metadata on objects (e.g., artwork, exhibitions, books, documentaries, etc.) within the Smithsonian Institution's collections.
 
 ## Dependencies
 
-- TODO
+- pandas
+- requests
+- json
+- csv
+- time
 
-## Usage
-
-- TODO
-
-## Documentation
+## Usage and Documentation
 
 The official documentation is hosted on Read the Docs: https://smithsonian_api_queri.readthedocs.io/en/latest/
 
