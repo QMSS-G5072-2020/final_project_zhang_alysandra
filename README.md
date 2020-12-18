@@ -1,34 +1,31 @@
-# smithsonian_queri 
+# smithsonian_api_queri 
 
-![](https://github.com/Alys-217/smithsonian_queri/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/Alys-217/smithsonian_queri/branch/main/graph/badge.svg)](https://codecov.io/gh/Alys-217/smithsonian_queri) ![Release](https://github.com/Alys-217/smithsonian_queri/workflows/Release/badge.svg) [![Documentation Status](https://readthedocs.org/projects/smithsonian_queri/badge/?version=latest)](https://smithsonian_queri.readthedocs.io/en/latest/?badge=latest)
+![](https://github.com/Alys-217/smithsonian_api_queri/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/Alys-217/smithsonian_api_queri/branch/main/graph/badge.svg)](https://codecov.io/gh/Alys-217/smithsonian_api_queri) ![Release](https://github.com/Alys-217/smithsonian_api_queri/workflows/Release/badge.svg) [![Documentation Status](https://readthedocs.org/projects/smithsonian_api_queri/badge/?version=latest)](https://smithsonian_api_queri.readthedocs.io/en/latest/?badge=latest)
 
 Python package designed to query data from the Smithsonian Open Access API using category filters based on user input.
 
 ## Installation
 
 ```bash
-$ pip install -i https://test.pypi.org/simple/ smithsonian_queri
+$ pip install -i https://test.pypi.org/simple/ smithsonian_api_queri
 ```
 
 ## Features
 
-- TODO
+- Query data from the Smithsonian Open Access API using specified search parameters based on user input
+- Generate spreadsheet (.csv) with public domain metadata on objects (e.g., artwork, exhibitions, books, documentaries, etc.) within the Smithsonian Institution's collections
 
 ## Dependencies
 
-- TODO
+- pandas
 
-## Usage
+## Usage and Documentation
 
-- TODO
-
-## Documentation
-
-The official documentation is hosted on Read the Docs: https://smithsonian_queri.readthedocs.io/en/latest/
+The official documentation is hosted on Read the Docs: https://smithsonian_api_queri.readthedocs.io/en/latest/
 
 ## Contributors
 
-We welcome and recognize all contributions. You can see a list of current contributors in the [contributors tab](https://github.com/Alys-217/smithsonian_queri/graphs/contributors).
+We welcome and recognize all contributions. You can see a list of current contributors in the [contributors tab](https://github.com/Alys-217/smithsonian_api_queri/graphs/contributors).
 
 ### Credits
 
