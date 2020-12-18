@@ -7,7 +7,7 @@ Python package designed to query data from the Smithsonian Open Access API using
 ## Installation
 
 ```bash
-$ pip install -i https://test.pypi.org/simple/ smithsonian_queri
+$ pip install smithsonian_queri
 ```
 
 ## Features
