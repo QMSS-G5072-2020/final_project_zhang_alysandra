@@ -1,10 +1,3 @@
-import requests
-import json
-import csv
-import time
-
-api_key = "api_key=ENTER API KEY HERE"
-
 def create_smithsonian_csv(category):
     """
     Query data from the Smithsonian Open Access API using category filters provided by user input.
